@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> Git file 1 on master branch<\title>
+<title> Git on master branch<\title>
 <\head>
 <body>
 <p> first experiment<\p>
