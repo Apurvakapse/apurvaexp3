@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> Git on master branch<\title>
+<title> Git on titleupdate branch<\title>
 <\head>
 <body>
 <p> first experiment<\p>
